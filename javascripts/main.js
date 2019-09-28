@@ -8,3 +8,19 @@ const init = () => {
 };
 
 init();
+
+
+
+
+// const getSelectedBreads = () => {
+//     const selectedBreads = [];
+//     const breadCheckboxes = document.getElementsByClassName('bread');
+//     for (let i = 0; i < breadCheckboxes.length; i++) {
+//         for (let i = 0; i < breads.length; i++) {
+//             if (breadCheckboxes[i].checked && breadCheckboxes[i].id === breads[i].id) {
+//                 selectedBreads.push(breads[i]);
+//             };
+//         }
+//     };
+//     return selectedBreads;
+// };
